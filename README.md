@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @araujorenato
-- 👀 I’m interested in UX & UI Design, Game Design and Frontend
+- 👀 I’m interested in UX & UI Design, Game Design and Frontend development
 - 🌱 I’m currently learning HTML, CSS, JS and Node
 
 
